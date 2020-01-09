@@ -1,5 +1,5 @@
 {
-  "name": "Bitwarden Vault",
+  "name": "GUG Sejf",
   "icons": [
     {
       "src": "images/icons/android-chrome-192x192.png",
@@ -12,6 +12,6 @@
       "type": "image/png"
     }
   ],
-  "theme_color": "#3c8dbc",
-  "background_color": "#3c8dbc"
+  "theme_color": "#1181c4",
+  "background_color": "#1181c4"
 }
